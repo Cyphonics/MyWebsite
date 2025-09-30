@@ -1,5 +1,4 @@
 p {
-    
     text-align: center;
     line-height: 1.4;
     letter-spacing: 0.5px;
@@ -8,20 +7,28 @@ p {
     font-family: Ubuntu, Ariel, Helvetica, sans-serif;
 }
 h1 {
-    color:blue;
-    text-decoration:underline;
+    color: blue;
+    text-decoration: underline;
     font-style: italic;
 }
 
-a{
+a {
     color: blue;
-    text-decoration:none;
+    text-decoration: none;
 }
 
 .highlight {
-    color:green
+    color: white;
 }
 
-#main-title{
-    color:brown
+#main-title {
+    color: firebrick;
+}
+
+.link {
+    color: mediumblue;
+}
+head {
+    color: aqua;
+    text-align: center;
 }
