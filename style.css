@@ -80,29 +80,29 @@ head {
     margin-left: auto;
     margin-right: auto;
 }
-.table{
+.table {
     justify-items: center;
-    border-style: none
+    border-style: none;
 }
-.Logo{
+.Logo {
     text-align: center;
 }
-.Alan{
+.Alan {
     text-align: center;
 }
-.Sam{
+.Sam {
     text-align: center;
 }
-.AlanSecond{
+.AlanSecond {
     display: inline;
 }
-.Saga{
+.Saga {
     display: inline;
 }
-.form{
+.form {
     text-align: center;
 }
-.text{
+.text {
     border-width: 8px;
     border-style: dotted;
     border-color: black;
