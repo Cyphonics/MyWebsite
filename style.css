@@ -84,20 +84,14 @@ head {
     justify-items: center;
     border-style: none;
 }
-.Logo {
-    text-align: center;
-}
-.Alan {
-    text-align: center;
-}
-.Sam {
-    text-align: center;
-}
 .AlanSecond {
     display: inline;
 }
 .Saga {
     display: inline;
+}
+.Images {
+    text-align: center;
 }
 .form {
     text-align: center;
