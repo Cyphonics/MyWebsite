@@ -27,7 +27,7 @@ a {
 }
 #title {
     border-width: 8px;
-    border-style: dotted;
+    border-style: none;
     border-color: black;
     border-radius: 10px;
     margin: 10px;
@@ -46,7 +46,7 @@ head {
 .banner {
     padding: 15px;
     border-width: 5px;
-    border-style: dotted;
+    border-style: none;
     border-color: black;
     border-radius: 5px;
     margin: 5px;
