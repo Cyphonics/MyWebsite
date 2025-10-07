@@ -23,7 +23,7 @@ a {
 }
 
 .highlight {
-    color: lightgray;
+    color: white;
 }
 #title {
     border-width: 8px;
@@ -38,7 +38,7 @@ a {
 }
 
 .link {
-    color: mediumblue;
+    color: crimson;
 }
 head {
     text-align: center;
