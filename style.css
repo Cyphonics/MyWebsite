@@ -103,3 +103,16 @@ head {
     border-radius: 10px;
     margin: 10px;
 }
+.navbar {
+    text-align: center;
+    width: 100%;
+}
+.navbutton {
+    background-color: black;
+    border: 2px dotted #444;
+    display: inline-block;
+    width: 180px;
+    margin: 1px;
+    padding: 1px;
+    max-height: 90px;
+}
