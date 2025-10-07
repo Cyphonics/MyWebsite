@@ -51,22 +51,6 @@ head {
     border-radius: 5px;
     margin: 5px;
 }
-#bannerimage {
-    max-width: 800px;
-    background-image: url(images/AlanWakeTitle.jpg);
-    height: 550px;
-    background-color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-#bannerimagesecond {
-    width: 100%;
-    background-image: url(images/alan2title.webp);
-    height: 702px;
-    background-color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 .heading {
     text-align: center;
     border-style: none;
