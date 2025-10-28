@@ -63,10 +63,11 @@ head {
     margin-left: auto;
     margin-right: auto;
 }
-.table {
+.table, th,td {
     justify-items: center;
-    border-style: none;
+    border-style:dotted;
     margin:auto;
+    
 }
 .AlanSecond {
     display: inline;
