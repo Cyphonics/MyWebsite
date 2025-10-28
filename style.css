@@ -136,7 +136,7 @@ td {
     margin: -2px;
 }
 /* tablet and up */
-@media (min-width: 830px) {
+@media (min-width: 750px) {
     .navbutton {
         display: inline-block;
         width: 25%;
