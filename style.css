@@ -66,6 +66,7 @@ head {
 .table {
     justify-items: center;
     border-style: none;
+    margin:auto;
 }
 .AlanSecond {
     display: inline;
