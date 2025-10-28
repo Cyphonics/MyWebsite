@@ -78,6 +78,27 @@ head {
 .Images {
     text-align: center;
 }
+#RemedyLogo{
+    width:40%;
+}
+#SamLake{
+    width:55%;
+}
+#AlanModel{
+    width:45%;
+}
+#GameTitle{
+    width:100%;
+}
+#Video{
+    width:100%;
+}
+#Scratch{
+    width:85%;
+}
+#SecondGameModels{
+    width:49%;
+}
 .form {
     text-align: center;
 }
