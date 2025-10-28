@@ -37,7 +37,7 @@ a {
 }
 
 .link {
-    color: #EE4B2B;
+    color: #ee4b2b;
 }
 head {
     text-align: center;
@@ -63,12 +63,14 @@ head {
     margin-left: auto;
     margin-right: auto;
 }
-.table, th,td {
+table,
+th,
+td {
+    border: 1px solid white;
     justify-items: center;
-    border-style:dotted;
-    margin:auto;
-    
+    margin: auto;
 }
+
 .AlanSecond {
     display: inline;
 }
@@ -78,30 +80,30 @@ head {
 .Images {
     text-align: center;
 }
-#RemedyLogo{
-    width:40%;
+#RemedyLogo {
+    width: 40%;
 }
-#SamLake{
-    width:55%;
+#SamLake {
+    width: 55%;
 }
-#AlanModel{
-    width:45%;
+#AlanModel {
+    width: 45%;
 }
-#GameTitle{
-    width:100%;
+#GameTitle {
+    width: 100%;
 }
-#Video{
-    width:100%;
-    height:315px;
+#Video {
+    width: 100%;
+    height: 315px;
 }
-#Scratch{
-    width:85%;
+#Scratch {
+    width: 85%;
 }
-#SecondGameAlan{
-    width:49%;
+#SecondGameAlan {
+    width: 49%;
 }
-#SecondGameSaga{
-    width:49%;
+#SecondGameSaga {
+    width: 49%;
 }
 .form {
     text-align: center;
